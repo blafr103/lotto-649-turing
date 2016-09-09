@@ -1,0 +1,2 @@
+# .t is shared with Perl and Raku test files, so tell GitHub this one is Turing
+*.t linguist-language=Turing
